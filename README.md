@@ -1,6 +1,6 @@
 <!-- **Ayan-kumar-pal/Ayan-kumar-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'am Ayan kumar pal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'am+Ayan+kumar+pal)](https://git.io/typing-svg)
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/Ayan-kumar-pal/Ayan-kumar-pal)](https://badges.pufler.dev)
