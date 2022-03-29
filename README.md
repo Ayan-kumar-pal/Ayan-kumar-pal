@@ -1,5 +1,7 @@
 <!-- **Ayan-kumar-pal/Ayan-kumar-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/UwvrqJ8Isv40oeSkuX/giphy.gif">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'am+Ayan+kumar+pal)](https://git.io/typing-svg)
 
