@@ -4,11 +4,7 @@
   <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47p2xcc125gv35bo2n4fhfh67ycz09rf4bot0f8e1p&rid=giphy.gif&ct=g">
 </p>
 
-<h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e47ngrbt3y4k5jpgq0mltl7lnb2q10u0emfbhzk8a2l&rid=200w.webp&ct=s" width="40px">
-  Hello,&lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy_s.gif?cid=ecf05e4728s9r30sovzkgzcgtz73za1tpa1m2jtge4x8z7a5&rid=giphy_s.gif&ct=s" width="40px" />
-</h1>
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayan <img src="https://media0.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy_s.gif?cid=ecf05e47acandcyrs8sen657qtbvm0u70xxkd7omj9am3ow1&rid=giphy_s.gif&ct=s" width="50"></h1> 
 
 <br/>
 <br/>
