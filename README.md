@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e47ngrbt3y4k5jpgq0mltl7lnb2q10u0emfbhzk8a2l&rid=200w.webp&ct=s" width="24px">
-  Hello,<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e47ngrbt3y4k5jpgq0mltl7lnb2q10u0emfbhzk8a2l&rid=200w.webp&ct=s" width="24px">&lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e47ngrbt3y4k5jpgq0mltl7lnb2q10u0emfbhzk8a2l&rid=200w.webp&ct=s" width="40px">
+  Hello,&lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy_s.gif?cid=ecf05e4728s9r30sovzkgzcgtz73za1tpa1m2jtge4x8z7a5&rid=giphy_s.gif&ct=s" width="40px" />
 </h1>
 
 <br/>
