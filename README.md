@@ -4,7 +4,7 @@
   <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47p2xcc125gv35bo2n4fhfh67ycz09rf4bot0f8e1p&rid=giphy.gif&ct=g">
 </p>
 
-<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayan <img src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47acandcyrs8sen657qtbvm0u70xxkd7omj9am3ow1&rid=giphy.gif&ct=s" width="50"></h1> 
+<h1 align="center">Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ayan <iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h1> 
 
 <br/>
 <br/>
