@@ -1,7 +1,5 @@
 <!-- **Ayan-kumar-pal/Ayan-kumar-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<p align="center">
-  <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
-</p>
+<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'am+Ayan+kumar+pal)](https://git.io/typing-svg)
