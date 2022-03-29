@@ -4,8 +4,14 @@
   <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47p2xcc125gv35bo2n4fhfh67ycz09rf4bot0f8e1p&rid=giphy.gif&ct=g">
 </p>
 
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'am+Ayan+kumar+pal)](https://git.io/typing-svg)
+<br/>
+<br/>
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/Ayan-kumar-pal/Ayan-kumar-pal)](https://badges.pufler.dev)
