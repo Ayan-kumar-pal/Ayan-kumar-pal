@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e47ngrbt3y4k5jpgq0mltl7lnb2q10u0emfbhzk8a2l&rid=200w.webp&ct=s" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  Hello,<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/200w.webp?cid=ecf05e47ngrbt3y4k5jpgq0mltl7lnb2q10u0emfbhzk8a2l&rid=200w.webp&ct=s" width="24px">&lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
