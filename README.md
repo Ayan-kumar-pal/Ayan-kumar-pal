@@ -1,7 +1,8 @@
 <!-- **Ayan-kumar-pal/Ayan-kumar-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p align="center">
-  <img src="https://media.giphy.com/media/UwvrqJ8Isv40oeSkuX/giphy.gif">
+  <img src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw">
 </p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'am+Ayan+kumar+pal)](https://git.io/typing-svg)
 
