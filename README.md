@@ -1,4 +1,5 @@
 <!-- **Ayan-kumar-pal/Ayan-kumar-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="150%"/></a></p>
 <p align="center">
   <img src="https://media1.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47p2xcc125gv35bo2n4fhfh67ycz09rf4bot0f8e1p&rid=giphy.gif&ct=g">
 </p>
