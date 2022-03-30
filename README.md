@@ -19,15 +19,29 @@
 </div>
 
 
+### <img src="https://media3.giphy.com/media/l4FGI8GoTL7N4DsyI/200.webp?cid=ecf05e477ukdinawbtcry4oniyxnerjqhbs3t3k73ettvsps&rid=200.webp&ct=s" width="50"> A little more about me...  
+
+- 🔭 I’m currently pursuing B.Tech from Jalpaiguri Government Engineering College
+- 🌱 I’m a all time learner
+- 👯 I’m looking to collaborate on GitHub
+- 📫 How to reach me **ayanpal30@gmail.com**
+- 💬 Ask me about C++
+
+</div>
+
+<br/>
+<div align="center">
+  
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
 [![Visits Badge](https://badges.pufler.dev/visits/Ayan-kumar-pal/Ayan-kumar-pal)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Ayan-kumar-pal)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/Ayan-kumar-pal/Ayan-kumar-pal)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=Ayan-kumar-pal)
 [![wakatime](https://wakatime.com/badge/user/aaee06d6-98dc-411e-945b-16584d1bc6f2.svg)](https://wakatime.com/@aaee06d6-98dc-411e-945b-16584d1bc6f2)
 
-<p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" max-width="500px"/>
-</p>
+
 
 
 # Connect with me :
