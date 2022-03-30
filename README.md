@@ -19,7 +19,7 @@
 </div>
 
 
-### <img src="https://media3.giphy.com/media/l4FGI8GoTL7N4DsyI/200.webp?cid=ecf05e477ukdinawbtcry4oniyxnerjqhbs3t3k73ettvsps&rid=200.webp&ct=s" width="50"> A little more about me...  
+### <img src="https://media4.giphy.com/media/S8TzUKzRPjepzJx37U/giphy.gif?cid=ecf05e47f2bct5ynys0rhh9vfcqnzye4v7dyp8984mb37rcl&rid=giphy.gif&ct=s" width="50"> A little more about me...  
 
 - 🔭 I’m currently pursuing B.Tech from Jalpaiguri Government Engineering College
 - 🌱 I’m a all time learner
