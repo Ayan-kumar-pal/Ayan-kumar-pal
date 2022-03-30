@@ -8,6 +8,15 @@
 
 <br/>
 <br/>
+<div align="center">
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CTF+Player+@TeamBi0s;Digital+Forensics+Analyst;&center=true&width=500&height=50"></a>
+  
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+  
+<p><em>Computer Science UnderGraduate at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+
+</div>
 
 
 [![Visits Badge](https://badges.pufler.dev/visits/Ayan-kumar-pal/Ayan-kumar-pal)](https://badges.pufler.dev)
