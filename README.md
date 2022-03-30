@@ -14,7 +14,7 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-<p><em>CSE UnderGraduate at <a href="https://jgec.ac.in/">Jalpaiguri Government Engineering College</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>CSE UnderGraduate at <a href="https://jgec.ac.in/">Jalpaiguri Government Engineering College</a><img src="https://media1.giphy.com/media/ixN1f5UlViepnCjHkn/200.webp?cid=ecf05e4767f44ffgy0482xcbdq4glffowtt5xetr4fbmsrzd&rid=200.webp&ct=s" width="30"></br>
 
 </div>
 
