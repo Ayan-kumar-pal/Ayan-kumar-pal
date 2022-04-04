@@ -90,14 +90,6 @@
 
  <br><br>
 
-# About Me :
-
-- 🔭 I’m currently pursuing B.Tech from Jalpaiguri Government Engineering College
-- 🌱 I’m a all time learner
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with Development
-- 💬 Ask me about C++
-
 # My GitHub Stats :
 
 <p align="center">
